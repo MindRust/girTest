@@ -1,2 +1,2 @@
-# girTest
+# gitTest
 test project
